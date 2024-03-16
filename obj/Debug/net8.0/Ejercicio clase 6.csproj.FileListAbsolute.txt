@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\bin\Debug\net8.0\Ejercicio clase 6.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\bin\Debug\net8.0\Ejercicio clase 6.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\bin\Debug\net8.0\Ejercicio clase 6.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\bin\Debug\net8.0\Ejercicio clase 6.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\bin\Debug\net8.0\Ejercicio clase 6.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\refint\Ejercicio clase 6.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\Ejercicio clase 6.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase 6\Ejercicio clase 6\obj\Debug\net8.0\ref\Ejercicio clase 6.dll
